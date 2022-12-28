@@ -12,3 +12,8 @@ In this challenge, we ask you to build a predictive model that answers the quest
 
 
 # Files Description
+- titanic.ipynb – Whole pipeline, including EDA, Modeling etc...
+- submission.csv – Output results from the pipeline
+- gender_submission.csv – Sample submission
+- train.csv – Train data
+- test.csv - Test data
