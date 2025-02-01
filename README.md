@@ -3,6 +3,8 @@
 
 # Kaggle Titanic Project
 
+(https://www.kaggle.com/code/nicklitwinow/titanic-max-accuracy-0-77033)
+
 This project addresses the Kaggle Titanic challenge, where the goal is to predict passenger survival based on a variety of features. The current solution achieved a maximum accuracy rate of 0.77033.
 
 ## Project Overview
